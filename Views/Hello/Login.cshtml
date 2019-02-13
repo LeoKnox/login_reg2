@@ -1,0 +1,11 @@
+@using login_reg.Models
+@model Logger
+<form>
+        <h2>Login</h2>
+            <span asp-validation-for="lemail"></span>
+            <label asp-for="lemail"></label>
+            <input asp-for="lemail"><br>
+            <span asp-validation-for="NewLog.lpassword"></span>
+            <label asp-for="NewLog.lpassword"></label>
+            <input asp-for="NewLog.lpassword"><br>
+</form>
