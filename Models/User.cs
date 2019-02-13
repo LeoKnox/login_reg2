@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace login_reg.Models
+namespace logintwo.Models
 {
     public class User
     {
@@ -16,11 +16,13 @@ namespace login_reg.Models
         [EmailAddress]
         [Display(Name = "Email Address:")]
         public string email {get; set;}
+
         [Required]
         [MinLength(8)]
         [Display(Name = "Password:")]
 
         public string password {get; set;}
+
         [Required]
         [Compare(nameof(password))]
         [Display(Name = "Confirm Password:")]

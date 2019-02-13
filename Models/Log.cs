@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace login_reg.Models
+namespace logintwo.Models
 {
     public class Logger
     {

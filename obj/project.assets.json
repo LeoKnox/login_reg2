@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Aelien/Documents/c#/login_reg/login_reg.csproj",
-      "projectName": "login_reg",
-      "projectPath": "/Users/Aelien/Documents/c#/login_reg/login_reg.csproj",
+      "projectUniqueName": "/Users/Aelien/Documents/c#/logintwo/logintwo.csproj",
+      "projectName": "logintwo",
+      "projectPath": "/Users/Aelien/Documents/c#/logintwo/logintwo.csproj",
       "packagesPath": "/Users/Aelien/.nuget/packages/",
-      "outputPath": "/Users/Aelien/Documents/c#/login_reg/obj/",
+      "outputPath": "/Users/Aelien/Documents/c#/logintwo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
